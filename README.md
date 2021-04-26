@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=keramiozsoy&column=3&margin-w=15&margin-h=15)](https://github.com/keramiozsoy/github-profile-trophy)
+
+
+
 <!--
 **keramiozsoy/keramiozsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
