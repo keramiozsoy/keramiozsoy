@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keramiozsoy" alt="keramiozsoy" /> </p>
 
 <!--
 **keramiozsoy/keramiozsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
