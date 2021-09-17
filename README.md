@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=keramiozsoy&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keramiozsoy" alt="keramiozsoy" /> </p>
 
