@@ -1,7 +1,8 @@
 ### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=keramiozsoy&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keramiozsoy" alt="keramiozsoy" /> </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=keramiozsoy&show_icons=true)
 
 <!--
 **keramiozsoy/keramiozsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
