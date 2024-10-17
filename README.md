@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keramiozsoy" alt="keramiozsoy" /> </p>
 
